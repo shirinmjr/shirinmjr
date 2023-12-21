@@ -7,9 +7,6 @@
 ## :trophy: Git profile Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
-
-
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
