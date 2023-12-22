@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shirin</h1>
-<p >Transitioning to software development with engineering background, and 5+ years of experience in enterprise grade applications and platforms as SDET (Software Development Engineer in Test) and Test Automation Engineer. Great communicator and attention to details, proactively and consistently learning new products and processes to bring new ideas and solutions to the table, and interdependently learn, troubleshoot, and resolve problems to meet team goals.</p>
+<p >
+Transitioning to software engineering with 5+ years of experience in enterprise grade applications and platforms as SDET (Software Development Engineer in Test). Educational background in Electrical Engineering and Cybersecurity and recently graduated from Software Engineering Immersive bootcamp. Strong communication, technical and interpersonal skills with attention to details and passion for driving innovation and delivering exceptional results.
+![image](https://github.com/shirinmjr/shirinmjr/assets/24372578/ce10619a-d128-473f-bec3-11bdbdd10d16)
+</p>
 
 ## :trophy: Git profile Trophies
 
