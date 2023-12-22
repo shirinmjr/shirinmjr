@@ -3,7 +3,7 @@
 Transitioning to software engineering with 5+ years of experience in enterprise grade applications and platforms as SDET (Software Development Engineer in Test). Educational background in Electrical Engineering and Cybersecurity and recently graduated from Software Engineering Immersive bootcamp. Strong communication, technical and interpersonal skills with attention to details and passion for driving innovation and delivering exceptional results.
 </p>
 
-## :trophy: Profile Trophies
+## :trophy: Git Profile Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
