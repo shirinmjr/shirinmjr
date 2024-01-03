@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shirin</h1>
 <p >
-Transitioning to software engineering with 5+ years of experience in enterprise grade applications and platforms as SDET (Software Development Engineer in Test). Educational background in Electrical Engineering and Cybersecurity and recently graduated from Software Engineering Immersive bootcamp. Strong communication, technical and interpersonal skills with attention to details and passion for driving innovation and delivering exceptional results.
+As a software engineer at General Assembly, I am learning and applying the latest technologies and best practices in web development, such as MongoDB, ExpressJS, React, NodeJS, Django, Python, and JavaScript. I am also enhancing my skills in data structures, algorithms, DOM, and Big O notation, and building projects that showcase my creativity and problem-solving abilities.
+</p>
+<p>
+Before joining General Assembly, I worked as a senior software development engineer in test at StoryBlocks and SAIC, where I ensured the quality and compliance of enterprise-grade applications and platforms for Health and Human Services. I built automation testing frameworks using Selenium, facilitated Agile transitions, and worked as a scrum master for various teams. I have a strong educational background in electrical engineering and cybersecurity, with a B.S. from University of Maryland University College and a B.E. from Islamic Azad University. I also hold multiple certifications in Java and ISTQB.
+</p>
+<p>
+I am passionate about engineering the future, one line of code at a time, and delivering exceptional results that meet the needs and expectations of users and clients. I have strong communication, technical, and interpersonal skills, and I pay attention to details and follow best practices. I am always eager to learn new things, collaborate with others, and challenge myself.
 </p>
 
 ## :trophy: Git Profile Trophies
