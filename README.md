@@ -13,6 +13,9 @@ I am passionate about engineering the future, one line of code at a time, and de
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shirinmjr&show_icons=true&theme=dark)](https://github.com/shirinmjr/shirinmjr/blob/master/readme.md)
+
+
 ![](https://komarev.com/ghpvc/?username=shirinmjr)
 <!--
 <h3 align="left">Languages and Tools:</h3>
