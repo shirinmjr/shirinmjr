@@ -15,11 +15,13 @@ I am passionate about engineering the future, one line of code at a time, and de
 
 ![](https://komarev.com/ghpvc/?username=shirinmjr)
 
-<!--
+
 
 
 [![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shirinmjr&show_icons=true&theme=dark)](https://github.com/shirinmjr/shirinmjr/blob/master/readme.md)
+<!--
 <h3 align="left">Languages and Tools:</h3>
+
 **shirinmjr/shirinmjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
