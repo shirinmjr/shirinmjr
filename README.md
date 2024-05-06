@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shirin</h1>
 <p >
-I'm Developing full-stack applications and reusable components leveraging high-quality code experience, after 5+ years of working as a Software Development Engineer in Test (SDET) while advocating and coaching teams on best and secure coding practices.
+I Develope full-stack applications and reusable components leveraging high-quality code experience, after 5+ years of working as a Software Development Engineer in Test (SDET) while advocating and coaching teams on best and secure coding practices.
 </p>
 <p>
 I worked as a senior software development engineer in test at StoryBlocks and SAIC, where I ensured the quality and compliance of enterprise-grade applications and platforms for Health and Human Services. I built automation testing frameworks using Selenium, facilitated Agile transitions, and worked as a scrum master for various teams. I have a strong educational background in electrical engineering and cybersecurity, with a B.S. from University of Maryland University College and a B.E. from Azad University(Iran). I also hold multiple certifications in Java and ISTQB.
