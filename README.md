@@ -1,7 +1,7 @@
 <!--
 <a href="https://imgur.com/Y2595ki"><img src="https://i.imgur.com/Y2595ki.png" title="source: imgur.com" /></a>
 --->
-<h1 align="center">Hi 👋, I'm Shirin</h1>
+## Hi 👋, I'm Shirin
 <p >
 I Develope full-stack applications and reusable components leveraging high-quality code experience, after 5+ years of working as a Software Development Engineer in Test (SDET) while advocating and coaching teams on best and secure coding practices.
 </p>
