@@ -2,16 +2,15 @@
 <a href="https://imgur.com/Y2595ki"><img src="https://i.imgur.com/Y2595ki.png" title="source: imgur.com" /></a>
 --->
 ## Hi 👋, I'm Shirin
-<p >
-I Develope full-stack applications and reusable components leveraging high-quality code experience, after 5+ years of working as a Software Development Engineer in Test (SDET) while advocating and coaching teams on best and secure coding practices.
+<p>
+After working as an SDET for five years, I am transitioning to a software engineering role. I recently completed the Software Engineering Immersive Program at General Assembly, where I received over 400 hours of training focused on software engineering concepts, including data structures and algorithms, MongoDB, ExpressJS, React, NodeJS (MERN stack), Python, JavaScript, Git, SQL, HTML, and CSS. This program provided me with valuable hands-on experience.
 </p>
 <p>
-I worked as a senior software development engineer in test at StoryBlocks and SAIC, where I ensured the quality and compliance of enterprise-grade applications and platforms for Health and Human Services. I built automation testing frameworks using Selenium, facilitated Agile transitions, and worked as a scrum master for various teams. I have a strong educational background in electrical engineering and cybersecurity, with a B.S. from University of Maryland University College and a B.E. from Azad University(Iran). I also hold multiple certifications in Java and ISTQB.
+I am currently seeking opportunities in full-stack or frontend development with JavaScript, NodeJS, and React. I would appreciate your support and welcome any connections, advice, or opportunities you can offer.
 </p>
 <p>
-I am passionate about engineering the future, one line of code at a time, and delivering exceptional results that meet the needs and expectations of users and clients. I have strong communication, technical, and interpersonal skills, and I pay attention to details and follow best practices. I am always eager to learn new things, collaborate with others, and challenge myself.
+Thank you in advance. Please feel free to message me with any questions.
 </p>
-
 ## My Skills 🚀
 
 <p align="left">
