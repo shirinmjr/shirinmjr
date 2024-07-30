@@ -2,7 +2,10 @@
 <a href="https://imgur.com/Y2595ki"><img src="https://i.imgur.com/Y2595ki.png" title="source: imgur.com" /></a>
 --->
 ## Hi 👋, I'm Shirin
-<p>Freelance Software Developer building Single Page Applications (SPA)s, 4+ years of experience with JavaScript Frameworks, currently exploring full-time opportunities in Software Development. Possess 5+ years of experience in Software Quality, advocating and coaching teams on high-quality and secure code best practices. Holds an educational background in Electrical Engineering and Cybersecurity.
+# About Me:
+<p>Freelance Software Developer building Single Page Applications (SPA)s, 4+ years of experience with JavaScript Frameworks, currently exploring full-time opportunities in Software Development.
+  
+  Possess 5+ years of experience in Software Quality, advocating and coaching teams on high-quality and secure code best practices. Holds an educational background in Electrical Engineering and Cybersecurity.
 </p>
 <p>
 I am currently seeking opportunities in full-stack or frontend development with JavaScript, NodeJS, and React. I would appreciate your support and welcome any connections, advice, or opportunities you can offer.
