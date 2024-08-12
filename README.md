@@ -27,7 +27,6 @@ and coaching teams on high-quality and secure code best practices. Holds an educ
 <p>
 <a href=""><img width=30 src='./profile/assets/jira-logo.svg'/></a>
 <a href=""><img width=30 src='./profile/assets/slack-new-logo.svg'/></a>
-
 </p>
 </div>
 
@@ -42,6 +41,15 @@ and coaching teams on high-quality and secure code best practices. Holds an educ
 
 ## Currently Learning 🚀
 
+
+
+### :trophy: Git Profile Trophies
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+--->
+[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shirinmjr&show_icons=true&theme=dark)](https://github.com/shirinmjr/shirinmjr/blob/master/readme.md)
+
+<!--
 ## Connect with Me 🌐
 
 <p align="left">
@@ -58,14 +66,6 @@ and coaching teams on high-quality and secure code best practices. Holds an educ
  <img src="https://komarev.com/ghpvc/?username=shirinmjr&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shirinmjr" width="auto" height="32" /> 
 </a>
 </p>
-
-## :trophy: Git Profile Trophies
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
---->
-[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shirinmjr&show_icons=true&theme=dark)](https://github.com/shirinmjr/shirinmjr/blob/master/readme.md)
-
-<!--
 <h3 align="left">Languages and Tools:</h3>
 
 **shirinmjr/shirinmjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
