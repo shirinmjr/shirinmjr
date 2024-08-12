@@ -50,12 +50,7 @@ and coaching teams on high-quality and secure code best practices. Holds an educ
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 --->
-<<<<<<< HEAD
 [![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shirinmjr&show_icons=true&theme=dark&layout=compact)](https://github.com/shirinmjr/shirinmjr/blob/master/readme.md)
-=======
-
-[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shirinmjr&show_icons=true&theme=dark)](https://github.com/shirinmjr/shirinmjr/blob/master/readme.md)
->>>>>>> f56ae42 (update certs)
 
 <!--
 ## Connect with Me 🌐
