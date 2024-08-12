@@ -8,25 +8,25 @@ and coaching teams on high-quality and secure code best practices. Holds an educ
 
 <div>
 <p align="left">
-<a href="https://www.typescriptlang.org/"><img width=30 src='./profile/assets/ts-logo-round-512.png'/> </a>
-<a href=""><img width=30 src='./profile/assets/nodejs-3-logo.svg'/> </a>
-<a href=""><img width=30 src='./profile/assets/react-logo.svg'/> </a>
-<a href=""><img width=30 src='./profile/assets/nextjs-icon.svg'/> </a>
-<a href=""><img width=30 src='./profile/assets/nodejs-1-logo.svg'/> </a>
-<a href=""><img width=30 src='./profile/assets/postman-logo.svg'/> </a>
-<a href="https://tailwindcss.com/"><img width=30 src='./profile/assets/tailwindcss-mark.svg'/> </a>
+<a href="https://www.typescriptlang.org/"><img width=30 src='./profile/assets/ts-logo-round-512.png'/></a>
+<a href=""><img width=30 src='./profile/assets/nodejs-3-logo.svg'/></a>
+<a href=""><img width=30 src='./profile/assets/react-logo.svg'/></a>
+<a href=""><img width=30 src='./profile/assets/nextjs-icon.svg'/></a>
+<a href=""><img width=30 src='./profile/assets/nodejs-1-logo.svg'/></a>
+<a href=""><img width=30 src='./profile/assets/postman-logo.svg'/></a>
+<a href="https://tailwindcss.com/"><img width=30 src='./profile/assets/tailwindcss-mark.svg'/></a>
 
 </p>
 <p>
-<a href="https://www.javascript.com/"><img width=30 src='./profile/assets/logo-javascript.svg'/> </a>
-<a href=""><img width=30 src='./profile/assets/html-logo.svg'/> </a>
-<a href=""><img width=30 src='./profile/assets/css-3-logo.svg'/> </a>
-<a href=""><img width=30 src='./profile/assets/cypress-icon.png'/> </a>
-<a href=""><img width=30 src='./profile/assets/github-icon.svg'/> </a>
+<a href="https://www.javascript.com/"><img width=30 src='./profile/assets/logo-javascript.svg'/></a>
+<a href=""><img width=30 src='./profile/assets/html-logo.svg'/></a>
+<a href=""><img width=30 src='./profile/assets/css-3-logo.svg'/></a>
+<a href=""><img width=30 src='./profile/assets/cypress-icon.png'/></a>
+<a href=""><img width=30 src='./profile/assets/github-icon.svg'/></a>
 </p>
 <p>
-<a href=""><img width=30 src='./profile/assets/jira-logo.svg'/> </a>
-<a href=""><img width=30 src='./profile/assets/slack-new-logo.svg'/> </a>
+<a href=""><img width=30 src='./profile/assets/jira-logo.svg'/></a>
+<a href=""><img width=30 src='./profile/assets/slack-new-logo.svg'/></a>
 
 </p>
 </div>
@@ -35,7 +35,7 @@ and coaching teams on high-quality and secure code best practices. Holds an educ
 
 <div>
 <p>
-<a href=""><img width=100 src='./profile/certs/ISTQB-foundation.png'/> </a>
+<a href=""><img width=100 src='./profile/certs/ISTQB-foundation.png'/></a>
 
 </p>
 </div>
