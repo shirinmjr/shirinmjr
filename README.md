@@ -1,6 +1,6 @@
 ## About Me:
 
-Software Developer building Single Page Applications (SPA)s, 4+ years of experience with JavaScript Frameworks, currently
+Software Engineer building Single Page Applications (SPA)s, 4+ years of experience with JavaScript Frameworks, currently
 exploring full-time opportunities in Software Development. Possess 5+ years of experience in Software Quality, advocating
 and coaching teams on high-quality and secure code best practices. Holds an educational background in Electrical Engineering and Cybersecurity.
 
