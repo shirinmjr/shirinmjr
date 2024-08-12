@@ -34,21 +34,28 @@ and coaching teams on high-quality and secure code best practices. Holds an educ
 
 <div>
 <p>
-<a href=""><img width=100 src='./profile/certs/ISTQB-foundation.png'/></a>
+<a href=""><img width=100 src='./profile/certs/meta-front-end-logo.png'/></a>
+<a href=""><img width=100 src='./profile/certs/general-assembly-logo.png'/></a>
+<a href=""><img width=100 src='./profile/certs/ISTQB.png'/></a>
+<a href=""><img width=100 src='./profile/certs/certified-tester-logo.png'/></a>
 
 </p>
 </div>
 
 ## Currently Learning 🚀
 
-
-
 ### :trophy: Git Profile Trophies
+
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 --->
+<<<<<<< HEAD
 [![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shirinmjr&show_icons=true&theme=dark&layout=compact)](https://github.com/shirinmjr/shirinmjr/blob/master/readme.md)
+=======
+
+[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shirinmjr&show_icons=true&theme=dark)](https://github.com/shirinmjr/shirinmjr/blob/master/readme.md)
+>>>>>>> f56ae42 (update certs)
 
 <!--
 ## Connect with Me 🌐
@@ -60,11 +67,11 @@ and coaching teams on high-quality and secure code best practices. Holds an educ
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </picture>
-  </a>&nbsp;&nbsp; 
+  </a>&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/shirinmohajer/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a align="left"> 
- <img src="https://komarev.com/ghpvc/?username=shirinmjr&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shirinmjr" width="auto" height="32" /> 
+<a align="left">
+ <img src="https://komarev.com/ghpvc/?username=shirinmjr&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shirinmjr" width="auto" height="32" />
 </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
