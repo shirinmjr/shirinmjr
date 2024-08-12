@@ -38,19 +38,17 @@ and coaching teams on high-quality and secure code best practices. Holds an educ
 <a href=""><img width=100 src='./profile/certs/general-assembly-logo.png'/></a>
 <a href=""><img width=100 src='./profile/certs/ISTQB.png'/></a>
 <a href=""><img width=100 src='./profile/certs/certified-tester-logo.png'/></a>
-
 </p>
+    
+[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shirinmjr&show_icons=true&theme=dark&layout=compact)](https://github.com/shirinmjr/shirinmjr/blob/master/readme.md)
+
 </div>
-
-## Currently Learning 🚀
-
-### :trophy: Git Profile Trophies
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 --->
-[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shirinmjr&show_icons=true&theme=dark&layout=compact)](https://github.com/shirinmjr/shirinmjr/blob/master/readme.md)
+
 
 <!--
 ## Connect with Me 🌐
