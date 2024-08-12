@@ -1,19 +1,46 @@
 ## About Me:
+
 Software Developer building Single Page Applications (SPA)s, 4+ years of experience with JavaScript Frameworks, currently
 exploring full-time opportunities in Software Development. Possess 5+ years of experience in Software Quality, advocating
 and coaching teams on high-quality and secure code best practices. Holds an educational background in Electrical Engineering and Cybersecurity.
+
 ## My Skills 🚀
+
 <div>
 <p align="left">
- <a href="https://tailwindcss.com/"><img width=30 src='https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg'/></a>
+<a href="https://www.typescriptlang.org/"><img width=30 src='./profile/assets/ts-logo-round-512.png'/>&nbsp;</a>
+<a href=""><img width=30 src='./profile/assets/nodejs-3-logo.svg'/>&nbsp;</a>
+<a href=""><img width=30 src='./profile/assets/react-logo.svg'/>&nbsp;</a>
+<a href=""><img width=30 src='./profile/assets/nextjs-icon.svg'/>&nbsp;</a>
+<a href=""><img width=30 src='./profile/assets/nodejs-1-logo.svg'/>&nbsp;</a>
+<a href=""><img width=30 src='./profile/assets/postman-logo.svg'/>&nbsp;</a>
+<a href="https://tailwindcss.com/"><img width=30 src='./profile/assets/tailwindcss-mark.svg'/>&nbsp;</a>
+
 </p>
-<p align="left">
- <a href="https://tailwindcss.com/"><img width=30 src='https://www.typescriptlang.org/branding/typescript-design-assets.svg '/></a>
+<p>
+<a href="https://www.javascript.com/"><img width=30 src='./profile/assets/logo-javascript.svg'/>&nbsp;</a>
+<a href=""><img width=30 src='./profile/assets/html-logo.svg'/>&nbsp;</a>
+<a href=""><img width=30 src='./profile/assets/css-3-logo.svg'/>&nbsp;</a>
+<a href=""><img width=30 src='./profile/assets/cypress-icon.png'/>&nbsp;</a>
+<a href=""><img width=30 src='./profile/assets/github-icon.svg'/>&nbsp;</a>
+</p>
+<p>
+<a href=""><img width=30 src='./profile/assets/jira-logo.svg'/>&nbsp;</a>
+<a href=""><img width=30 src='./profile/assets/slack-new-logo.svg'/>&nbsp;</a>
+
+</p>
+</div>
+
+## Certifications 🚀
+
+<div>
+<p>
+<a href=""><img width=100 src='./profile/certs/ISTQB-foundation.png'/>&nbsp;</a>
+
 </p>
 </div>
 
 ## Currently Learning 🚀
-
 
 ## Connect with Me 🌐
 
@@ -32,14 +59,11 @@ and coaching teams on high-quality and secure code best practices. Holds an educ
 </a>
 </p>
 
-
-
-
-
 ## :trophy: Git Profile Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 [![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shirinmjr&show_icons=true&theme=dark)](https://github.com/shirinmjr/shirinmjr/blob/master/readme.md)
+
 <!--
 <h3 align="left">Languages and Tools:</h3>
 
