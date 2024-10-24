@@ -44,6 +44,20 @@ and coaching teams on high-quality and secure code best practices. Holds an educ
 
 </div>
 
+# Honors and Communities
+
+Code The Dream Volunteer program | Volunteer coach and Instructor. | 3/2024 – Present
+
+The National Society of Leadership and Success (NSLS) | 12/2023 – Present
+
+Active member of The Honor Society of Phi Kappa Phi | Chapter 022UC 04/2019 – Present
+
+SURGE (Equal Opportunity for Underrepresented and Minority Groups). | 11/2021 – 12/2022 
+
+Third Place on FINRA annual Cybersecurity Hackathon. | 01/2018
+
+Paajaf Foundation | Volunteer Web Developer | 03/2017 – 01/ 2018
+
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
