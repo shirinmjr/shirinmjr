@@ -1,8 +1,7 @@
 ## About Me:
 
-Software Engineer building Single Page Applications (SPA)s, 4+ years of experience with JavaScript Frameworks, currently
-exploring full-time opportunities in Software Development. Possess 5+ years of experience in Software Quality, advocating
-and coaching teams on high-quality and secure code best practices. Holds an educational background in Electrical Engineering and Cybersecurity.
+Software Engineer focused on building efficient, user-centered digital solutions, 4+ years of experience with JavaScript Frameworks, currently exploring full-time opportunities in Software Development. Background in Software Quality, advocating and coaching teams on high-quality and secure code best practices.![image](https://github.com/user-attachments/assets/382255f0-ed03-47da-9dd1-b1ecec215dc3)
+
 
 ## My Skills 🚀
 
