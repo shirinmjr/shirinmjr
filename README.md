@@ -1,6 +1,6 @@
 ## About Me:
 
-Software Engineer focused on building efficient, user-centered digital solutions, 4+ years of experience with JavaScript Frameworks, currently exploring full-time opportunities in Software Development. Background in Software Quality, advocating and coaching teams on high-quality and secure code best practices.![image](https://github.com/user-attachments/assets/382255f0-ed03-47da-9dd1-b1ecec215dc3)
+Software Engineer focused on building efficient, user-centered digital solutions, 4+ years of experience with JavaScript Frameworks, currently exploring full-time opportunities in Software Development. Background in Software Quality, advocating and coaching teams on high-quality and secure code best practices.
 
 
 ## My Skills 🚀
