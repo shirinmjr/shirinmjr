@@ -57,6 +57,8 @@ Third Place on FINRA annual Cybersecurity Hackathon. | 01/2018
 
 Paajaf Foundation | Volunteer Web Developer | 03/2017 – 01/ 2018
 
+[![shirinmjr's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=shirinmjr&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
+
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
