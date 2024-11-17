@@ -14,16 +14,13 @@ Software Engineer focused on building efficient, user-centered digital solutions
 <a href=""><img width=30 src='./profile/assets/nodejs-1-logo.svg'/></a>
 <a href=""><img width=30 src='./profile/assets/postman-logo.svg'/></a>
 <a href="https://tailwindcss.com/"><img width=30 src='./profile/assets/tailwindcss-mark.svg'/></a>
-
-</p>
-<p>
+    
 <a href="https://www.javascript.com/"><img width=30 src='./profile/assets/logo-javascript.svg'/></a>
 <a href=""><img width=30 src='./profile/assets/html-logo.svg'/></a>
 <a href=""><img width=30 src='./profile/assets/css-3-logo.svg'/></a>
 <a href=""><img width=30 src='./profile/assets/cypress-icon.png'/></a>
 <a href=""><img width=30 src='./profile/assets/github-icon.svg'/></a>
-</p>
-<p>
+
 <a href=""><img width=30 src='./profile/assets/jira-logo.svg'/></a>
 <a href=""><img width=30 src='./profile/assets/slack-new-logo.svg'/></a>
 </p>
