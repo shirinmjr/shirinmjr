@@ -1,6 +1,6 @@
 ## About Me:
 
-Software Engineer focused on building efficient, user-centered digital solutions, 4+ years of experience with JavaScript Frameworks, currently exploring full-time opportunities in Software Development. Background in Software Quality, advocating and coaching teams on high-quality and secure code best practices.
+Full-Stack Software Engineer @ Oracle | Love for clean code | Building Community
 
 
 ## My Skills 🚀
