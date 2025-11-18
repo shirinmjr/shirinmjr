@@ -9,20 +9,20 @@ Ex-Oracle | Ex-SAIC | Ex-FINRA
 
 <div>
 <p align="left">
-<a href="https://www.typescriptlang.org/"><img width=30 src='./profile/assets/ts-logo-round-512.png'/></a>
-<a href=""><img width=30 src='./profile/assets/nodejs-3-logo.svg'/></a>
-<a href=""><img width=30 src='./profile/assets/react-logo.svg'/></a>
-<a href=""><img width=30 src='./profile/assets/nextjs-icon.svg'/></a>
-<a href=""><img width=30 src='./profile/assets/nodejs-1-logo.svg'/></a>
-<a href=""><img width=30 src='./profile/assets/postman-logo.svg'/></a>
-<a href="https://tailwindcss.com/"><img width=30 src='./profile/assets/tailwindcss-mark.svg'/></a>  
-<a href="https://www.javascript.com/"><img width=30 src='./profile/assets/logo-javascript.svg'/></a>
-<a href=""><img width=30 src='./profile/assets/html-logo.svg'/></a>
-<a href=""><img width=30 src='./profile/assets/css-3-logo.svg'/></a>
-<a href=""><img width=30 src='./profile/assets/cypress-icon.png'/></a>
-<a href=""><img width=30 src='./profile/assets/github-icon.svg'/></a>
-<a href=""><img width=30 src='./profile/assets/jira-logo.svg'/></a>
-<a href=""><img width=30 src='./profile/assets/slack-new-logo.svg'/></a>
+  <a href="https://www.typescriptlang.org/"><img width=30 src='./profile/assets/ts-logo-round-512.png'/></a>
+  <a href="https://nodejs.org/"><img width=30 src='./profile/assets/nodejs-3-logo.svg'/></a>
+  <a href="https://react.dev/"><img width=30 src='./profile/assets/react-logo.svg'/></a>
+  <a href="https://nextjs.org/"><img width=30 src='./profile/assets/nextjs-icon.svg'/></a>
+  <a href="https://nodejs.org/"><img width=30 src='./profile/assets/nodejs-1-logo.svg'/></a>
+  <a href="https://www.postman.com/"><img width=30 src='./profile/assets/postman-logo.svg'/></a>
+  <a href="https://tailwindcss.com/"><img width=30 src='./profile/assets/tailwindcss-mark.svg'/></a>  
+  <a href="https://www.javascript.com/"><img width=30 src='./profile/assets/logo-javascript.svg'/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width=30 src='./profile/assets/html-logo.svg'/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img width=30 src='./profile/assets/css-3-logo.svg'/></a>
+  <a href="https://www.cypress.io/"><img width=30 src='./profile/assets/cypress-icon.png'/></a>
+  <a href="https://github.com/"><img width=30 src='./profile/assets/github-icon.svg'/></a>
+  <a href="https://www.atlassian.com/software/jira"><img width=30 src='./profile/assets/jira-logo.svg'/></a>
+  <a href="https://slack.com/"><img width=30 src='./profile/assets/slack-new-logo.svg'/></a>
 </p>
 </div>
 
