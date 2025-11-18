@@ -1,6 +1,8 @@
 ## About Me:
 
-Full-Stack Software Engineer @ Oracle | Love for clean code | Building Community
+Full-Stack Software Engineer @ Tanaq | Love for clean code | Building Community
+
+Ex-Oracle | Ex-SAIC | Ex-FINRA
 
 
 ## My Skills 🚀
