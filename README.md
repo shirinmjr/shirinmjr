@@ -1,29 +1,26 @@
 ## About Me:
 
-Full-Stack Software Engineer @ Tanaq | Love for clean code | Building Community
+## Full-Stack Software Engineer @ Tanaq | Love for clean code | Building Community
 
-Ex-Oracle | Ex-SAIC | Ex-FINRA
+### Ex-Oracle | Ex-SAIC | Ex-FINRA
 
 
 ## My Skills 🚀
 
 <div>
-<p align="left">
-  <a href="https://www.typescriptlang.org/"><img width=30 src='./profile/assets/ts-logo-round-512.png'/></a>
-  <a href="https://nodejs.org/"><img width=30 src='./profile/assets/nodejs-3-logo.svg'/></a>
-  <a href="https://react.dev/"><img width=30 src='./profile/assets/react-logo.svg'/></a>
-  <a href="https://nextjs.org/"><img width=30 src='./profile/assets/nextjs-icon.svg'/></a>
-  <a href="https://nodejs.org/"><img width=30 src='./profile/assets/nodejs-1-logo.svg'/></a>
-  <a href="https://www.postman.com/"><img width=30 src='./profile/assets/postman-logo.svg'/></a>
-  <a href="https://tailwindcss.com/"><img width=30 src='./profile/assets/tailwindcss-mark.svg'/></a>  
-  <a href="https://www.javascript.com/"><img width=30 src='./profile/assets/logo-javascript.svg'/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img width=30 src='./profile/assets/html-logo.svg'/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img width=30 src='./profile/assets/css-3-logo.svg'/></a>
-  <a href="https://www.cypress.io/"><img width=30 src='./profile/assets/cypress-icon.png'/></a>
-  <a href="https://github.com/"><img width=30 src='./profile/assets/github-icon.svg'/></a>
-  <a href="https://www.atlassian.com/software/jira"><img width=30 src='./profile/assets/jira-logo.svg'/></a>
-  <a href="https://slack.com/"><img width=30 src='./profile/assets/slack-new-logo.svg'/></a>
-</p>
+  <p align="left">
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
+    <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=cypress" alt="Cypress" /></a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a></p>
 </div>
 
 ## Certifications 🚀
@@ -35,8 +32,6 @@ Ex-Oracle | Ex-SAIC | Ex-FINRA
 <a href=""><img width=100 src='./profile/certs/ISTQB.png'/></a>
 <a href=""><img width=100 src='./profile/certs/certified-tester-logo.png'/></a>
 </p>
-    
-[![Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shirinmjr&show_icons=true&theme=dark&layout=compact)](https://github.com/shirinmjr/shirinmjr/blob/master/readme.md)
 
 </div>
 
@@ -53,6 +48,10 @@ SURGE (Equal Opportunity for Underrepresented and Minority Groups). | 11/2021 �
 Third Place on FINRA annual Cybersecurity Hackathon. | 01/2018
 
 Paajaf Foundation | Volunteer Web Developer | 03/2017 – 01/ 2018
+
+## Connect with Me 🌐
+
+<p align="left"><a href="https://github.com/shirinmjr" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></picture></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shirinmohajer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a align="left"><img src="https://komarev.com/ghpvc/?username=shirinmjr&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shirinmjr" width="auto" height="32" /></a></p>
 
 <!--
 [![shirinmjr's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=shirinmjr&theme=Dark)](https://leetcode.com/u/ShirinMjr/)
