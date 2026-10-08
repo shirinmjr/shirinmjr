@@ -1,27 +1,54 @@
-## About Me:
+<h1 align="center">Shirin Mohajer</h1>
 
-## Full-Stack Software Engineer @ Tanaq | Love for clean code | Building Community
+<h3 align="center">Full-Stack Engineer &nbsp;|&nbsp; AI-Enabled Products &nbsp;|&nbsp; Founder &amp; Builder</h3>
 
-### Ex-Oracle | Ex-SAIC | Ex-FINRA
+<p align="center">Ex-Oracle &nbsp;·&nbsp; Ex-SAIC &nbsp;·&nbsp; Ex-FINRA</p>
 
+<p align="center">
+  <a href="https://shirinmjr.github.io">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/shirinmohajer/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/shirinmjr">GitHub</a>
+</p>
+
+---
+
+## About Me
+
+Full-stack engineer with 8+ years of experience building secure, scalable web applications and AI-enabled workflow tools. I care about clean code, solid testing, and shipping products people actually use. Currently at Tanaq, and building [Home Agent Guru](https://homeagentguru.com), an AI-powered home-buyer app, on the side.
 
 ## My Skills 🚀
 
-<div>
-  <p align="left">
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-    <a href="https://react.dev/" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
-    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-    <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
-    <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=cypress" alt="Cypress" /></a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer"><img width="30" src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a></p>
-</div>
+**Languages**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,java,py,bash" alt="Languages" />
+</p>
+
+**Frontend**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,mui,bootstrap,html,css" alt="Frontend" />
+</p>
+
+**Backend and Databases**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=express,postgres,mysql,mongodb,prisma,firebase,azure" alt="Backend and Databases" />
+</p>
+
+**Cloud and DevOps**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions,linux,git,github" alt="Cloud and DevOps" />
+</p>
+
+**Testing, APIs and Tools**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cypress,selenium,postman,webpack,vscode,idea" alt="Testing, APIs and Tools" />
+</p>
+
+Also: Oracle JET, Drizzle ORM, Cosmos DB, Databricks, Okta, OAuth 2.0 / OIDC, RBAC, Zod, Section 508, TDD, Agile/Scrum.
 
 ## Certifications 🚀
 
@@ -32,64 +59,17 @@
 <a href=""><img width=100 src='./profile/certs/ISTQB.png'/></a>
 <a href=""><img width=100 src='./profile/certs/certified-tester-logo.png'/></a>
 </p>
-
 </div>
 
-# Honors and Communities
+## Honors and Communities
 
-Code The Dream Volunteer program | Volunteer coach and Instructor. | 3/2024 – Present
-
-The National Society of Leadership and Success (NSLS) | 12/2023 – Present
-
-Active member of The Honor Society of Phi Kappa Phi | Chapter 022UC 04/2019 – Present
-
-SURGE (Equal Opportunity for Underrepresented and Minority Groups). | 11/2021 – 12/2022 
-
-Third Place on FINRA annual Cybersecurity Hackathon. | 01/2018
-
-Paajaf Foundation | Volunteer Web Developer | 03/2017 – 01/ 2018
+- Code The Dream Volunteer program | Volunteer coach and Instructor | 3/2024 – Present
+- The National Society of Leadership and Success (NSLS) | 12/2023 – Present
+- Honor Society of Phi Kappa Phi | Chapter 022UC | 04/2019 – Present
+- SURGE (Equal Opportunity for Underrepresented and Minority Groups) | 11/2021 – 12/2022
+- Third Place, FINRA annual Cybersecurity Hackathon | 01/2018
+- Paajaf Foundation | Volunteer Web Developer | 03/2017 – 01/2018
 
 ## Connect with Me 🌐
 
-<p align="left"><a href="https://github.com/shirinmjr" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></picture></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shirinmohajer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a align="left"><img src="https://komarev.com/ghpvc/?username=shirinmjr&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shirinmjr" width="auto" height="32" /></a></p>
-
-<!--
-[![shirinmjr's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=shirinmjr&theme=Dark)](https://leetcode.com/u/ShirinMjr/)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
---->
-
-
-<!--
-## Connect with Me 🌐
-
-<p align="left">
-  <a href="https://github.com/shirinmjr" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
-  </a>&nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/shirinmohajer/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a align="left">
- <img src="https://komarev.com/ghpvc/?username=shirinmjr&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shirinmjr" width="auto" height="32" />
-</a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-
-**shirinmjr/shirinmjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"><a href="https://github.com/shirinmjr" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></picture></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/shirinmohajer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=shirinmjr&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" height="32" /></p>
